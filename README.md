@@ -40,7 +40,7 @@ Creating the GIF gave some challenges works in hack md but not github
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/TftgRek.gif" width=200>
+<img src="https://i.imgur.com/TftgRek.gif" width=200><br>
 
 
 ### Notes
