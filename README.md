@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 ### Notes
-Creating the GIF gave some challenges works in hack md but not github
+
 ---
 
 ## Flix Part 1
@@ -44,5 +44,5 @@ Creating the GIF gave some challenges works in hack md but not github
 
 
 ### Notes
-Challenges with Coco Pods and Renaming files and reseting paths 
+
 
